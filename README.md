@@ -1,4 +1,4 @@
-# Data Engineer
+# Senior Data Engineer
 Technical Skills : SQL, Python, Pyspark, Airflow, Scala, GCP, AWS, Databricks, Azure
 
 ### Education
